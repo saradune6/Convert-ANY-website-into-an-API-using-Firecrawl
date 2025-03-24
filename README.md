@@ -1,4 +1,4 @@
-# Convert ANY website into an API using Firecrawl
+# Convert ANY website into an API using Firecrawl 
 
 This project lets you convert ANY website into an API using Firecrawl.
 - [Firecrawl](https://www.firecrawl.dev/i/api) is used to scrape websites.
